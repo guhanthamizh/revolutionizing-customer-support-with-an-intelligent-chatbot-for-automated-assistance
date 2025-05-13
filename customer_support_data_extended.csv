@@ -1,0 +1,31 @@
+id,user_query,intent,response
+1,How do I reset my password?,password_reset,"To reset your password, click 'Forgot Password' on the login screen."
+2,What are your business hours?,business_hours,Our support team is available 24/7 to assist you.
+3,Can I return a product I purchased online?,return_policy,"Yes, online purchases can be returned within 30 days."
+4,I want to talk to a human,human_agent_request,"Sure, connecting you to a support agent now."
+5,My order hasn't arrived yet,order_status,I'm sorry to hear that! Can you provide your order number?
+6,Do you offer international shipping?,shipping_info,"Yes, we ship to over 100 countries worldwide."
+7,Where can I find your privacy policy?,policy_info,You can find our privacy policy at example.com/privacy
+8,Is there a warranty on your products?,warranty_info,"Yes, all products come with a 1-year manufacturer warranty."
+9,How do I cancel my subscription?,cancel_subscription,You can cancel anytime from your account settings under 'Subscriptions'.
+10,The website is not loading,tech_issue,Please try clearing your browser cache or using a different browser.
+11,Can I change my delivery address?,change_address,"Yes, you can change your address from your account settings or contact support."
+12,What payment methods do you accept?,payment_methods,"We accept credit/debit cards, PayPal, and digital wallets."
+13,I received a damaged item,damaged_item,We're sorry! Please share an image and we'll assist with a replacement or refund.
+14,How do I track my shipment?,track_order,You can track your shipment from the 'Orders' section in your profile.
+15,Is there a student discount?,discount_inquiry,"Yes, we offer student discounts. Verify your status with StudentBeans or UNiDAYS."
+16,How do I update my profile?,update_profile,Go to 'My Account' > 'Edit Profile' to update your details.
+17,What is your refund policy?,refund_policy,Refunds are processed within 5-7 business days after product return.
+18,The app keeps crashing,app_issue,Try reinstalling the app or clearing the cache. Let us know if it persists.
+19,How do I enable two-factor authentication?,enable_2fa,Go to 'Security Settings' and click on 'Enable 2FA' to set it up.
+20,Can I schedule a delivery?,schedule_delivery,"Yes, you can schedule a delivery date at checkout if available."
+21,Do you provide invoices?,invoice_request,Invoices are available under 'Order History' in your account.
+22,Is my personal data safe?,data_privacy,Your data is encrypted and protected under our privacy policy.
+23,How do I unsubscribe from emails?,unsubscribe_email,Click the 'Unsubscribe' link at the bottom of our emails.
+24,Can I speak to a manager?,escalation_request,I'll connect you with a manager right away.
+25,Do you have a loyalty program?,loyalty_program,Yes! Join our rewards program to earn points on every purchase.
+26,The product is out of stock,stock_issue,We’re working on restocking it. Click 'Notify Me' to get updates.
+27,How do I leave a review?,leave_review,"After receiving the product, you can leave a review on the product page."
+28,What if I forget my username?,forgot_username,Use the 'Forgot Username' link on the login page.
+29,Are there any hidden charges?,hidden_charges,"No, there are no hidden charges. All fees are displayed at checkout."
+30,Can I use multiple promo codes?,promo_code_usage,Only one promo code can be used per order.
